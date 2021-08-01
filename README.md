@@ -16,5 +16,5 @@
   - the string should be formatted with each citation needed on own line, in order found.
 - Module must be named scraper.py
 
-#### Colaborators
+#### Collaborators
 Davee, Daniel, Wondwosen, Michael
